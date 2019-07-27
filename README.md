@@ -8,7 +8,7 @@ In order to install and use this project you must run two commands in the consol
 These two commands will install all of the dependencies (node_modules) needed for this project and will start the server opening a tab at your browser on `http://localhost:3000`.
 
 
-#Development Notes
+# Development Notes
 
 ## Backend Server
 
